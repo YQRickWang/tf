@@ -1,0 +1,776 @@
+lr 0.0001
+
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.779 | 2.824 | 2.646 | 2.713 | 2.843 | 2.518 |
+
+============================
+Global step:         50
+Learning rate:       0.0001
+Step-time (ms):     84.0236
+Train loss avg:      0.9729
+--------------------------
+Val loss:            0.8120
+srnn loss:           1.0146
+============================
+
+Saving the model...
+done in 423.83 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.778 | 2.824 | 2.645 | 2.712 | 2.843 | 2.518 |
+
+============================
+Global step:         100
+Learning rate:       0.0001
+Step-time (ms):     38.0883
+Train loss avg:      0.9532
+--------------------------
+Val loss:            0.9160
+srnn loss:           1.0144
+============================
+
+Saving the model...
+done in 350.18 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.778 | 2.824 | 2.645 | 2.712 | 2.843 | 2.518 |
+
+============================
+Global step:         150
+Learning rate:       0.0001
+Step-time (ms):     37.7952
+Train loss avg:      0.9689
+--------------------------
+Val loss:            0.8687
+srnn loss:           1.0142
+============================
+
+Saving the model...
+done in 352.39 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.777 | 2.823 | 2.645 | 2.712 | 2.843 | 2.518 |
+
+============================
+Global step:         200
+Learning rate:       0.0001
+Step-time (ms):     37.7346
+Train loss avg:      0.9653
+--------------------------
+Val loss:            0.8660
+srnn loss:           1.0141
+============================
+
+Saving the model...
+done in 351.45 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.777 | 2.823 | 2.644 | 2.712 | 2.843 | 2.518 |
+
+============================
+Global step:         250
+Learning rate:       0.0001
+Step-time (ms):     37.1356
+Train loss avg:      0.9507
+--------------------------
+Val loss:            0.7627
+srnn loss:           1.0139
+============================
+
+Saving the model...
+done in 353.78 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.777 | 2.823 | 2.644 | 2.711 | 2.842 | 2.518 |
+
+============================
+Global step:         300
+Learning rate:       0.0001
+Step-time (ms):     37.2617
+Train loss avg:      0.9545
+--------------------------
+Val loss:            1.0314
+srnn loss:           1.0138
+============================
+
+Saving the model...
+done in 347.93 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.776 | 2.822 | 2.644 | 2.711 | 2.842 | 2.518 |
+
+============================
+Global step:         350
+Learning rate:       0.0001
+Step-time (ms):     38.1535
+Train loss avg:      0.9498
+--------------------------
+Val loss:            0.9201
+srnn loss:           1.0136
+============================
+
+Saving the model...
+done in 385.52 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.776 | 2.822 | 2.644 | 2.711 | 2.842 | 2.518 |
+
+============================
+Global step:         400
+Learning rate:       0.0001
+Step-time (ms):     37.4458
+Train loss avg:      0.9559
+--------------------------
+Val loss:            0.9029
+srnn loss:           1.0135
+============================
+
+Saving the model...
+done in 351.33 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.775 | 2.822 | 2.643 | 2.711 | 2.842 | 2.518 |
+
+============================
+Global step:         450
+Learning rate:       0.0001
+Step-time (ms):     37.5902
+Train loss avg:      0.9346
+--------------------------
+Val loss:            0.9510
+srnn loss:           1.0133
+============================
+
+Saving the model...
+done in 354.26 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.775 | 2.821 | 2.643 | 2.710 | 2.842 | 2.518 |
+
+============================
+Global step:         500
+Learning rate:       0.0001
+Step-time (ms):     38.1286
+Train loss avg:      0.9384
+--------------------------
+Val loss:            1.0184
+srnn loss:           1.0131
+============================
+
+Saving the model...
+done in 363.31 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.775 | 2.821 | 2.643 | 2.710 | 2.842 | 2.518 |
+
+============================
+Global step:         550
+Learning rate:       0.0001
+Step-time (ms):     37.9859
+Train loss avg:      0.9699
+--------------------------
+Val loss:            0.9273
+srnn loss:           1.0130
+============================
+
+Saving the model...
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow_core/python/training/saver.py:963: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.
+W1129 10:07:54.396092 140275731629952 deprecation.py:323] From /usr/local/lib/python3.6/dist-packages/tensorflow_core/python/training/saver.py:963: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.
+done in 354.15 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.774 | 2.821 | 2.642 | 2.710 | 2.841 | 2.518 |
+
+============================
+Global step:         600
+Learning rate:       0.0001
+Step-time (ms):     37.6729
+Train loss avg:      0.9450
+--------------------------
+Val loss:            0.8860
+srnn loss:           1.0128
+============================
+
+Saving the model...
+done in 387.60 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.774 | 2.820 | 2.642 | 2.710 | 2.841 | 2.518 |
+
+============================
+Global step:         650
+Learning rate:       0.0001
+Step-time (ms):     38.2537
+Train loss avg:      0.9652
+--------------------------
+Val loss:            0.8797
+srnn loss:           1.0127
+============================
+
+Saving the model...
+done in 362.96 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.773 | 2.820 | 2.642 | 2.709 | 2.841 | 2.518 |
+
+============================
+Global step:         700
+Learning rate:       0.0001
+Step-time (ms):     38.2027
+Train loss avg:      0.9681
+--------------------------
+Val loss:            0.7810
+srnn loss:           1.0125
+============================
+
+Saving the model...
+done in 370.22 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.773 | 2.820 | 2.641 | 2.709 | 2.841 | 2.518 |
+
+============================
+Global step:         750
+Learning rate:       0.0001
+Step-time (ms):     37.7459
+Train loss avg:      0.9583
+--------------------------
+Val loss:            0.9736
+srnn loss:           1.0123
+============================
+
+Saving the model...
+done in 375.77 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.772 | 2.819 | 2.641 | 2.709 | 2.841 | 2.518 |
+
+============================
+Global step:         800
+Learning rate:       0.0001
+Step-time (ms):     38.8336
+Train loss avg:      0.9630
+--------------------------
+Val loss:            0.8939
+srnn loss:           1.0122
+============================
+
+Saving the model...
+done in 395.95 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.772 | 2.819 | 2.641 | 2.708 | 2.840 | 2.517 |
+
+============================
+Global step:         850
+Learning rate:       0.0001
+Step-time (ms):     37.7640
+Train loss avg:      0.9601
+--------------------------
+Val loss:            0.9562
+srnn loss:           1.0120
+============================
+
+Saving the model...
+done in 406.22 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.772 | 2.818 | 2.640 | 2.708 | 2.840 | 2.517 |
+
+============================
+Global step:         900
+Learning rate:       0.0001
+Step-time (ms):     38.0304
+Train loss avg:      0.9510
+--------------------------
+Val loss:            0.8759
+srnn loss:           1.0119
+============================
+
+Saving the model...
+done in 392.36 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.771 | 2.818 | 2.640 | 2.708 | 2.840 | 2.517 |
+
+============================
+Global step:         950
+Learning rate:       0.0001
+Step-time (ms):     38.8739
+Train loss avg:      0.9486
+--------------------------
+Val loss:            1.0042
+srnn loss:           1.0117
+============================
+
+Saving the model...
+done in 375.21 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.771 | 2.818 | 2.640 | 2.708 | 2.840 | 2.517 |
+
+============================
+Global step:         1000
+Learning rate:       0.0001
+Step-time (ms):     38.0752
+Train loss avg:      0.9495
+--------------------------
+Val loss:            0.9217
+srnn loss:           1.0115
+============================
+
+Saving the model...
+done in 377.33 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.770 | 2.817 | 2.640 | 2.707 | 2.840 | 2.517 |
+
+============================
+Global step:         1050
+Learning rate:       0.0001
+Step-time (ms):     38.3622
+Train loss avg:      0.9562
+--------------------------
+Val loss:            0.8636
+srnn loss:           1.0114
+============================
+
+Saving the model...
+done in 359.22 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.770 | 2.817 | 2.639 | 2.707 | 2.840 | 2.517 |
+
+============================
+Global step:         1100
+Learning rate:       0.0001
+Step-time (ms):     39.6198
+Train loss avg:      0.9617
+--------------------------
+Val loss:            0.8852
+srnn loss:           1.0112
+============================
+
+Saving the model...
+done in 389.71 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.770 | 2.817 | 2.639 | 2.707 | 2.839 | 2.517 |
+
+============================
+Global step:         1150
+Learning rate:       0.0001
+Step-time (ms):     38.1332
+Train loss avg:      0.9508
+--------------------------
+Val loss:            0.9035
+srnn loss:           1.0110
+============================
+
+Saving the model...
+done in 382.33 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.769 | 2.816 | 2.639 | 2.707 | 2.839 | 2.517 |
+
+============================
+Global step:         1200
+Learning rate:       0.0001
+Step-time (ms):     38.6576
+Train loss avg:      0.9460
+--------------------------
+Val loss:            0.8847
+srnn loss:           1.0109
+============================
+
+Saving the model...
+done in 376.19 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.769 | 2.816 | 2.638 | 2.706 | 2.839 | 2.517 |
+
+============================
+Global step:         1250
+Learning rate:       0.0001
+Step-time (ms):     38.5869
+Train loss avg:      0.9690
+--------------------------
+Val loss:            0.9339
+srnn loss:           1.0107
+============================
+
+Saving the model...
+done in 377.60 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.768 | 2.816 | 2.638 | 2.706 | 2.839 | 2.517 |
+
+============================
+Global step:         1300
+Learning rate:       0.0001
+Step-time (ms):     39.6872
+Train loss avg:      0.9712
+--------------------------
+Val loss:            0.7865
+srnn loss:           1.0106
+============================
+
+Saving the model...
+done in 395.64 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.768 | 2.815 | 2.638 | 2.706 | 2.839 | 2.517 |
+
+============================
+Global step:         1350
+Learning rate:       0.0001
+Step-time (ms):     38.8145
+Train loss avg:      0.9445
+--------------------------
+Val loss:            0.9456
+srnn loss:           1.0104
+============================
+
+Saving the model...
+done in 356.03 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.768 | 2.815 | 2.637 | 2.706 | 2.839 | 2.517 |
+
+============================
+Global step:         1400
+Learning rate:       0.0001
+Step-time (ms):     39.0854
+Train loss avg:      0.9680
+--------------------------
+Val loss:            0.8767
+srnn loss:           1.0102
+============================
+
+Saving the model...
+done in 372.40 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.767 | 2.815 | 2.637 | 2.705 | 2.838 | 2.517 |
+
+============================
+Global step:         1450
+Learning rate:       0.0001
+Step-time (ms):     38.7637
+Train loss avg:      0.9387
+--------------------------
+Val loss:            1.0196
+srnn loss:           1.0101
+============================
+
+Saving the model...
+done in 367.85 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.767 | 2.814 | 2.637 | 2.705 | 2.838 | 2.517 |
+
+============================
+Global step:         1500
+Learning rate:       0.0001
+Step-time (ms):     40.0384
+Train loss avg:      0.9468
+--------------------------
+Val loss:            0.7934
+srnn loss:           1.0099
+============================
+
+Saving the model...
+done in 385.21 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.766 | 2.814 | 2.636 | 2.705 | 2.838 | 2.516 |
+
+============================
+Global step:         1550
+Learning rate:       0.0001
+Step-time (ms):     38.5250
+Train loss avg:      0.9484
+--------------------------
+Val loss:            0.7614
+srnn loss:           1.0097
+============================
+
+Saving the model...
+done in 389.02 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.766 | 2.814 | 2.636 | 2.705 | 2.838 | 2.516 |
+
+============================
+Global step:         1600
+Learning rate:       0.0001
+Step-time (ms):     38.4388
+Train loss avg:      0.9435
+--------------------------
+Val loss:            0.9180
+srnn loss:           1.0096
+============================
+
+Saving the model...
+done in 381.58 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.766 | 2.813 | 2.636 | 2.704 | 2.838 | 2.516 |
+
+============================
+Global step:         1650
+Learning rate:       0.0001
+Step-time (ms):     38.5820
+Train loss avg:      0.9500
+--------------------------
+Val loss:            0.9999
+srnn loss:           1.0094
+============================
+
+Saving the model...
+done in 400.47 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.765 | 2.813 | 2.635 | 2.704 | 2.837 | 2.516 |
+
+============================
+Global step:         1700
+Learning rate:       0.0001
+Step-time (ms):     38.5154
+Train loss avg:      0.9365
+--------------------------
+Val loss:            0.9258
+srnn loss:           1.0092
+============================
+
+Saving the model...
+done in 411.16 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.765 | 2.813 | 2.635 | 2.704 | 2.837 | 2.516 |
+
+============================
+Global step:         1750
+Learning rate:       0.0001
+Step-time (ms):     38.3277
+Train loss avg:      0.9432
+--------------------------
+Val loss:            0.7758
+srnn loss:           1.0091
+============================
+
+Saving the model...
+done in 379.21 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.764 | 2.812 | 2.635 | 2.703 | 2.837 | 2.516 |
+
+============================
+Global step:         1800
+Learning rate:       0.0001
+Step-time (ms):     38.1211
+Train loss avg:      0.9704
+--------------------------
+Val loss:            1.0295
+srnn loss:           1.0089
+============================
+
+Saving the model...
+done in 398.72 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.764 | 2.812 | 2.635 | 2.703 | 2.837 | 2.516 |
+
+============================
+Global step:         1850
+Learning rate:       0.0001
+Step-time (ms):     38.7126
+Train loss avg:      0.9470
+--------------------------
+Val loss:            0.9048
+srnn loss:           1.0087
+============================
+
+Saving the model...
+done in 365.71 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.763 | 2.812 | 2.634 | 2.703 | 2.837 | 2.516 |
+
+============================
+Global step:         1900
+Learning rate:       0.0001
+Step-time (ms):     38.0387
+Train loss avg:      0.9449
+--------------------------
+Val loss:            0.8333
+srnn loss:           1.0086
+============================
+
+Saving the model...
+done in 384.35 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.763 | 2.811 | 2.634 | 2.703 | 2.837 | 2.516 |
+
+============================
+Global step:         1950
+Learning rate:       0.0001
+Step-time (ms):     38.6111
+Train loss avg:      0.9433
+--------------------------
+Val loss:            0.7559
+srnn loss:           1.0084
+============================
+
+Saving the model...
+done in 373.10 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.763 | 2.811 | 2.634 | 2.702 | 2.836 | 2.516 |
+
+============================
+Global step:         2000
+Learning rate:       0.0001
+Step-time (ms):     38.0552
+Train loss avg:      0.9307
+--------------------------
+Val loss:            0.9185
+srnn loss:           1.0082
+============================
+
+Saving the model...
+done in 386.95 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.762 | 2.811 | 2.633 | 2.702 | 2.836 | 2.516 |
+
+============================
+Global step:         2050
+Learning rate:       0.0001
+Step-time (ms):     38.1660
+Train loss avg:      0.9579
+--------------------------
+Val loss:            0.8871
+srnn loss:           1.0081
+============================
+
+Saving the model...
+done in 384.64 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.762 | 2.810 | 2.633 | 2.702 | 2.836 | 2.516 |
+
+============================
+Global step:         2100
+Learning rate:       0.0001
+Step-time (ms):     38.8617
+Train loss avg:      0.9508
+--------------------------
+Val loss:            1.0442
+srnn loss:           1.0079
+============================
+
+Saving the model...
+done in 361.49 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.761 | 2.810 | 2.633 | 2.702 | 2.836 | 2.516 |
+
+============================
+Global step:         2150
+Learning rate:       0.0001
+Step-time (ms):     38.4183
+Train loss avg:      0.9375
+--------------------------
+Val loss:            0.8438
+srnn loss:           1.0077
+============================
+
+Saving the model...
+done in 385.18 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.761 | 2.810 | 2.632 | 2.701 | 2.836 | 2.515 |
+
+============================
+Global step:         2200
+Learning rate:       0.0001
+Step-time (ms):     38.4381
+Train loss avg:      0.9407
+--------------------------
+Val loss:            0.9028
+srnn loss:           1.0076
+============================
+
+Saving the model...
+done in 382.01 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.761 | 2.809 | 2.632 | 2.701 | 2.835 | 2.515 |
+
+============================
+Global step:         2250
+Learning rate:       0.0001
+Step-time (ms):     38.4340
+Train loss avg:      0.9452
+--------------------------
+Val loss:            0.9454
+srnn loss:           1.0074
+============================
+
+Saving the model...
+done in 411.49 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.760 | 2.809 | 2.632 | 2.701 | 2.835 | 2.515 |
+
+============================
+Global step:         2300
+Learning rate:       0.0001
+Step-time (ms):     38.3060
+Train loss avg:      0.9527
+--------------------------
+Val loss:            0.8600
+srnn loss:           1.0072
+============================
+
+Saving the model...
+done in 379.37 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.760 | 2.809 | 2.631 | 2.700 | 2.835 | 2.515 |
+
+============================
+Global step:         2350
+Learning rate:       0.0001
+Step-time (ms):     38.5463
+Train loss avg:      0.9488
+--------------------------
+Val loss:            0.9535
+srnn loss:           1.0071
+============================
+
+Saving the model...
+done in 382.32 ms
+
+milliseconds     |    80 |   160 |   320 |   400 |   560 |  1000 |
+walking          | 2.759 | 2.808 | 2.631 | 2.700 | 2.835 | 2.515 |
+
+============================
+Global step:         2400
+Learning rate:       0.0001
+Step-time (ms):     38.0960
+Train loss avg:      0.9561
+--------------------------
+Val loss:            0.8887
+srnn loss:           1.0069
+============================
+
+Saving the model...
+done in 385.71 ms
